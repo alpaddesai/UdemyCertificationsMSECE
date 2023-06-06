@@ -1,5 +1,7 @@
 # Udemy Certifications MSECE
 
+![image](LearningMSECE.jpg)
+
 ![image](EthicsandExcellence.png)
 
 ![image](USCopyrightCertificate.png)
